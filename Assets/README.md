@@ -8,6 +8,6 @@ HTML5
 
 CSS3
 
-(Optional) JavaScript – if you added interactivity
+
 
 Responsive Design – using media queries or a framework
